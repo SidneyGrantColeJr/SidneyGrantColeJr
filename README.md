@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Microsoft Windows Server 2025</b>
-  - [Windows Server Administration](https://github.com/SidneyGrantColeJr/Wiki)
+  - [Windows Server Administration](https://github.com/SidneyGrantColeJr/Wiki/blob/main/Windows-Server-2025.md)
 
 
 <h2>👨‍💻 IT Certifications:</h2>
