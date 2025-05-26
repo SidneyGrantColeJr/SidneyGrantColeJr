@@ -26,6 +26,7 @@
 [Linkedin]: https://www.linkedin.com/in/sidney-g-cole-jr/
 
 
-
+<!--
+**SidneyGrantCOleJr/SidneyGrantColeJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
